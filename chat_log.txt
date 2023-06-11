@@ -1,0 +1,15 @@
+
+ You : hello, how are you 
+ Adora : I'm good, how are you?
+ You : please remember my name is athira 
+ Adora : Hi Athira!
+ You : what is my name 
+ Adora : Athira
+ You : what is my name 
+ Adora : Athira
+ You : of course 
+ Adora : Hi Athira!
+ You : write a program to add two numbers in python 
+ Adora : def add_numbers(x, y):
+
+return x + y
